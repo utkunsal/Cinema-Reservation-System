@@ -27,3 +27,7 @@ Edit Users Window
 Add Hall Window
 ![Alt text](/screenshots/add-hall-window.png "Add Hall Window") ![Alt text](/screenshots/add-hall-window-error-example.png "Add Hall Window Error Exmaple")
 
+<p float="left">
+  <img src="/screenshots/add-hall-window.png" width="150" />
+  <img src="/screenshots/add-hall-window-error-example.png" width="150" /> 
+</p>
